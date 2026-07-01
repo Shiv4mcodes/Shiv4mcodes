@@ -16,6 +16,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shiv4mcodes&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Shiv4mcodes&icon=5&color=7)](https://visitcount.itsvg.in)
 

@@ -84,20 +84,3 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 Learning in public • Building consistently • Always improving
 </p>
 
-
-
-/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv4mcodes&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv4mcodes&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-<p align="center">
-Learning in public • Building consistently • Always improving
-</p>
-

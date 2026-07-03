@@ -34,13 +34,12 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 
 
 ## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/Shiv4mcodes">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Shiv4mcodes&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Shiv4mcodes's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=Shiv4mcodes&theme=dark&hide_border=true&cache_seconds=86400" alt="Shiv4mcodes's GitHub Streak" width="49%" />
+<p align="centre">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv4mcodes&layout=compact&theme=dark&hide_border=true"/>
 </p>
-
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv4mcodes&theme=dark&hide_border=true"/>
+</p>
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=Shiv4mcodes&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivam Mishra's GitHub Trophies" />
 </p>
@@ -83,4 +82,3 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 <p align="center">
 Learning in public • Building consistently • Always improving
 </p>
-

@@ -38,14 +38,14 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shiv4mcodes&layout=compact&theme=dark&hide_border=true"/>
 </p>
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv4mcodes&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=shiv4mcodes&theme=radical&hide_border=true&cache_seconds=86400" alt="shiv4mcodes's GitHub Streak" width="49%" />
 </p>
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=Shiv4mcodes&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivam Mishra's GitHub Trophies" />
+  <img src="https://trophy.ryglcloud.net/?username=Shiv4mcodes&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Shivam Mishra's GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv4mcodes&theme=dark&radius=10" alt="Shiv4mcodes's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=Shiv4mcodes&theme=radical&radius=10" alt="Shiv4mcodes's Activity Graph" />
 </p>
 
 
@@ -82,3 +82,22 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 <p align="center">
 Learning in public • Building consistently • Always improving
 </p>
+
+<p align="center">
+  <a href="https://github.com/shiv4mcodes">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shiv4mcodes&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="shiv4mcodes's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=shiv4mcodes&theme=radical&hide_border=true&cache_seconds=86400" alt="shiv4mcodes's GitHub Streak" width="49%" />
+</p>
+<p>
+  <img src="https://trophy.ryglcloud.net/?username=shiv4mcodes&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="shivam's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=shiv4mcodes&theme=radical&radius=10" alt="shiv4mcodes's Activity Graph" />
+</p>
+
+</a>
+  <img src="https://streak-stats.demolab.com/?user=shiv4mcodes&theme=radical&hide_border=true&cache_seconds=86400" alt="shiv4mcodes's GitHub Streak" width="49%" />
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shiv4mcodes&theme=dark&hide_border=true"/>
+</p

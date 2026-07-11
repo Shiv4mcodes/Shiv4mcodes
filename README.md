@@ -27,9 +27,6 @@ My current flagship project is a **Personal AI Assistant** that brings together 
 
 - 💻 DSA in C++ and core Computer Science fundamentals
 - 🤖 AI agent architecture & LLM orchestration
-- 🧠 Retrieval-Augmented Generation (RAG) with ChromaDB
-- 📱 Android companion app (Kotlin + Ktor + WebSockets)
-- 🖥️ Desktop applications with PyQt6
 
 
 

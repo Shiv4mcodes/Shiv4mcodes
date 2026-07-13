@@ -19,7 +19,7 @@ Most of my learning comes from long-term personal projects where I explore syste
 My current flagship project is a **Personal AI Assistant** that brings together conversational AI, long-term memory, desktop interaction, and Android integration. While the source code remains private during active development, I'm happy to discuss its architecture and engineering decisions.
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Shiv4mcodes">
-    <img src="https://komarev.com/ghpvc/?username=Shiv4mcodes&label=Profile%20views&color=00FFFF&style=flat-square" alt="Shiv4mcodes's profile views" />
+    
   </a>
 </p>
 

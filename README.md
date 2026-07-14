@@ -3,7 +3,7 @@
 Building AI applications with a focus on systems engineering, automation, and real-world problem solving.
 </h3>
 <p align="center">
-B.Tech CSE • Solo builder • Learning by building
+B.Tech CSE • Solo Builder • Learning by building
 </p>
 
 <p align="center">
